@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique Aviz! 👋
+# Olá, eu sou o Henrique! 👋
 
 ### QA Engineer 
 
