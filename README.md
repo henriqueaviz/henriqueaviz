@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Henrique Aviz! 👋
 
-<!--
-**henriqueaviz/henriqueaviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer | Garantindo a qualidade de IAs para CRM & Agronegócio
 
-Here are some ideas to get you started:
+Atualmente, atuo como QA focado em validar fluxos complexos e garantir a excelência técnica em dois ecossistemas robustos:
+* **Thinkin:** Soluções de IA voltadas para otimização de CRM.
+* **Data Agrin:** ERP inteligente especializado no setor de Agronegócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ O que eu faço
+* **Testes de Software:** Automação de testes e validação de funcionalidades de ponta a ponta.
+* **IA & Dados:** Testes específicos para modelos de inteligência artificial e integridade de dados em ERPs.
+* **Qualidade:** Foco em entregas seguras e escaláveis para ambientes corporativos.
+
+## 🚀 Tech Stack (QA & Dev)
+![Cypress](https://img.shields.io/badge/-Cypress-04C38E?style=flat&logo=cypress&logoColor=white) 
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+Aqui você pode acompanhar o volume das minhas contribuições e commits:
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueaviz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueaviz&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+> "Qualidade não é um ato, é um hábito." 
+
+---
