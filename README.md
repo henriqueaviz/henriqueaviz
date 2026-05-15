@@ -1,12 +1,7 @@
 # Olá, eu sou o Henrique Aviz! 👋
 
-### QA Engineer | Garantindo a qualidade de IAs para CRM & Agronegócio
+### QA Engineer 
 
-Atualmente, atuo como QA focado em validar fluxos complexos e garantir a excelência técnica em dois ecossistemas robustos:
-* **Thinkin:** Soluções de IA voltadas para otimização de CRM.
-* **Data Agrin:** ERP inteligente especializado no setor de Agronegócio.
-
----
 
 ## 🛠️ O que eu faço
 * **Testes de Software:** Automação de testes e validação de funcionalidades de ponta a ponta.
